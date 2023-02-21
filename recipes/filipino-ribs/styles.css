@@ -1,0 +1,22 @@
+.header {
+    background-color: black;
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.description-background {
+    background-color: rgb(180, 84, 148);
+    color: white;
+}
+
+.ingredients-background {
+    background-color: darkgray;
+}
+
+.directions-background {
+    background-color: tomato;
+}
